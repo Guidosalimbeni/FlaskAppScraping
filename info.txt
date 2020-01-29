@@ -1,2 +1,4 @@
 https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
 https://realpython.com/flask-by-example-part-1-project-setup/
+
+https://stackoverflow.com/questions/4269922/permission-denied-publickey-when-deploying-heroku-code-fatal-the-remote-end
